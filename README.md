@@ -1,6 +1,6 @@
 # Cube.c
-Designed a code to create a 3d cube <br>
-Author - Deviprasad Shetty <br> 
+Designed a code to create a 3d cube 
+<br> Author - Deviprasad Shetty <br> 
 <br> #include<stdio.h>
 
 <br> int main()
@@ -17,25 +17,21 @@ Author - Deviprasad Shetty <br>
 <br>    {
 <br>     for(int j=1; j<=(2*n-1); j++)
 <br>        {
-<br>        //printf("%d",d);
-<br>           if (j>(n+d) && i<=n) // For Upper cut
+<br>          if (j>(n+d) && i<=n) // For Upper cut
 <br>           {
 <br>              printf("  ");
 <br>              break;
 <br>           }
-<br>           else if (j<(n-d) && i>n) // For Lower cut
-<br>          {
-<br>            printf("  ");
-<br>          }
+<br>          else if (j<(n-d) && i>n) // For Lower cut
+<br>              printf("  ");
 <br>          else
-<br>          printf("$ ");
+<br>              printf("$ ");
 <br>        }
 <br>        printf("\n");
 <br>        if(i<n)
-<br>        d=d+1;
+<br>           d=d+1;
 <br>        else
-<br>        d=d-1;
-<br>        
+<br>           d=d-1;    
 <br>    }
 <br>      return 0;
 <br> }
