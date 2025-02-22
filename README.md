@@ -23,7 +23,7 @@ Designed a code to create a 3d cube
 <br>             break;
 <br>           }
 <br>         else if (j<(n-d) && i>n) // For Lower cut
-<br>           printf("  ");
+<br>           printf("   ");
 <br>         else
 <br>           printf("$ ");
 <br>        }
