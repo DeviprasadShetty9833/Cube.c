@@ -2,7 +2,7 @@
 <br> Designed a code to create a 3d cube 
 <br> Author - Deviprasad Shetty
 
-<br> <b> <u> My Intro </u> </b>
+<br> <b> <h1> My Intro </h1> </b>
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning 
 <br> and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, 
