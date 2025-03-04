@@ -1,6 +1,7 @@
 # Cube.c
-<br> Designed a code to create a 3d cube 
+
 <br> Author - Deviprasad Shetty
+<br> Designed a code to create a 3d cube 
 
 <br> <b> <h1> My Intro </h1> </b>
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning 
