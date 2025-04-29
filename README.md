@@ -30,7 +30,7 @@
 <br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
 <br> 
 
-# Technologies / Concepts Used
+# Concepts Used
 <br> Programming Language: C (Standard C99)
 <br> Core Concepts:
 <br> 1. Loops (for, while) for pattern drawing
