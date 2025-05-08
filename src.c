@@ -21,18 +21,18 @@ for(int i=1; i<=(2*n-1); i++)
              break;
           }
           else if (j<(n-d) && i>n) // For Lower cut
-         {
-           printf("  ");
-         }
-         else
-         printf("$ ");
-        }
-       printf("\n");
-       if(i<n)
-       d=d+1;
-       else
-       d=d-1;
+          {
+             printf("  ");
+          }
+          else
+             printf("$ ");
+          }
+          printf("\n");
+          if(i<n)
+             d=d+1;
+          else
+             d=d-1;
        
-      }
-     return 0;
+     }
+return 0;
 }
