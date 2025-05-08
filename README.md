@@ -3,7 +3,7 @@
 <br> Author - Deviprasad Shetty 
 <br> 
 
-# My Intro
+# My Intro:
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
@@ -13,14 +13,15 @@
 <br> ⊡⁠ [Portfolio](https://github.com/DeviprasadShetty9833/My_Portfolio)
 <br> 
 
-# Overview
+# Overview:
 
 <br> This is a simple and creative C program that visually prints a 3D cube pattern in the console based on the number of sides (length of edge) provided by the user.
 <br> 
 <br> The program dynamically adjusts the cube’s dimensions and alignment to create a 3D optical illusion effect using only text characters, enhancing logical thinking and pattern programming skills.
 <br> 
 
-# Key Features
+# Key Features:
+
 <br> 1. Dynamic Cube Size
 <br> The user inputs the number of sides (length of cube edges), and the program adjusts the drawing automatically.
 <br> 
@@ -34,7 +35,8 @@
 <br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
 <br> 
 
-# Concepts Used
+# Concepts Used:
+
 <br> Programming Language: C (Standard C99)
 
 <br> Core Concepts:
