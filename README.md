@@ -37,17 +37,15 @@
 # Concepts Used
 <br> Programming Language: C (Standard C99)
 <br> Core Concepts:
-<br> 1. Loops (for, while) for pattern drawing
-<br> Functions for modular and clean code structure
-
-<br> 3. ASCII art techniques for creating 3D-like effects
-<br> 4. Command Line Interface (CLI) interaction
+<br> ⊡⁠ Loops (for, while) for pattern drawing
+<br> ⊡⁠ ASCII art techniques for creating 3D-like effects
+<br> ⊡⁠ Command Line Interface (CLI) interaction
 <br> 
 
 # Focus Areas:
-<br> Logical Thinking
-<br> Pattern Programming
-<br> Dynamic Output based on user input
+<br> ⊡⁠ Logical Thinking
+<br> ⊡⁠ Pattern Programming
+<br> ⊡⁠ Dynamic Output based on user input
 
 # Output:
 
