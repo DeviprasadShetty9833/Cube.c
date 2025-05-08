@@ -36,6 +36,7 @@
 
 # Concepts Used
 <br> Programming Language: C (Standard C99)
+
 <br> Core Concepts:
 <br> ⊡⁠ Loops (for, while) for pattern drawing
 <br> ⊡⁠ ASCII art techniques for creating 3D-like effects
