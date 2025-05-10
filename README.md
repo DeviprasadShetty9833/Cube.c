@@ -31,6 +31,10 @@
 <br> 3. Input Validation
 <br> Ensures that the cube size is reasonable (positive integer, and not too small) to prevent console distortion.
 <br> 
+1] Initial Shape: A solid (2n - 1) × (2n - 1) square of * characters.
+
+2] Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as *.
+
 <br> 4. Clear Structure
 <br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
 <br> 
