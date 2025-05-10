@@ -57,5 +57,5 @@
 
 # Feedback:
 <br> I’d love to hear from you!
-<br> If you encounter any bugs, issues, or have suggestions for improvements:
+<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Cube.c/tree/main/Issue_Template), Issues, or have [Suggestions]() for improvements:
 
