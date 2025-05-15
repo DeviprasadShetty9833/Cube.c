@@ -33,8 +33,8 @@
 <br> 
 
 > ⊡⁠ If the user inputs a *size n*, Logic for Pattern Generation is as follows:
-> - &nbsp; Initial Shape: A solid *(2n - 1) × (2n - 1)* square of ' * ' characters.
-> - &nbsp; Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as ' * '.
+> - &nbsp; Initial Shape: A solid *(2n - 1) × (2n - 1)* square of ' $ ' characters.
+> - &nbsp; Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as ' $ '.
 
 <br> 4. Clear Structure
 <br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
