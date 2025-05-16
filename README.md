@@ -37,7 +37,7 @@
 > - &nbsp; Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as ' $ '.
 
 <br> ![4.](https://img.shields.io/badge/4.-Clear%20Structure-00599C?style=for-the-badge&labelColor=white)
-<br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
+<br> Clearly commented and simple logic—perfect for beginners learning ASCII art or logic-based printing.
 <br> 
 
 # Concepts Used:
