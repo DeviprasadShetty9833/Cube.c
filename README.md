@@ -23,6 +23,7 @@
 # Key Features:
 
 <br> 1. Dynamic Cube Size
+![1.](https://img.shields.io/badge/-black?style=for-the-badge&logo=&logoColor=white)
 <br> The user inputs the number of sides (length of cube edges), and the program adjusts the drawing automatically.
 <br> 
 <br> 2. 3D Visual Effect
