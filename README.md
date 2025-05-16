@@ -23,7 +23,7 @@
 # Key Features:
 
 <br> 1. Dynamic Cube Size
-<br> ![1. Dynamic Cube Size](https://img.shields.io/badge/1.-Dynamic_Cube_Size-blue?style=for-the-badge&labelColor=white)
+<br> ![1. Dynamic Cube Size](https://img.shields.io/badge/1.-grey-Dynamic_Cube_Size-blue?style=for-the-badge&labelColor=white)
 ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
 ![1.](https://img.shields.io/badge/-black?style=for-the-badge&logo=&logoColor=white)
