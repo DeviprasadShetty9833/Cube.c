@@ -8,10 +8,9 @@
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
-<br> ⊡⁠ [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
-<br> ⊡⁠ [Website]()
-<br> ⊡⁠ [My_Portfolio](https://github.com/DeviprasadShetty9833/My_Portfolio)
-<br> 
+<br> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
+|---|---|---|
+
 
 # Overview:
 
