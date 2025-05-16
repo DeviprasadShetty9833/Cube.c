@@ -22,13 +22,13 @@
 
 # Key Features:
 
-<br> ![1.](https://img.shields.io/badge/1.-Dynamic%20Cube%20Size-blue?style=for-the-badge&labelColor=white)
+<br> ![1.](https://img.shields.io/badge/1.-Dynamic%20Cube%20Size-00599C?style=for-the-badge&labelColor=white)
 <br> The user inputs the number of sides (length of cube edges), and the program adjusts the drawing automatically.
 <br> 
-<br> ![2.](https://img.shields.io/badge/2.-3D%20Visual%20Effect-blue?style=for-the-badge&labelColor=white)
+<br> ![2.](https://img.shields.io/badge/2.-3D%20Visual%20Effect-00599C?style=for-the-badge&labelColor=white)
 <br> Smart use of characters ($ and spaces) to simulate a three-dimensional cube appearance in text format.
 <br> 
-<br> ![3.](https://img.shields.io/badge/3.-Input%20Validation-blue?style=for-the-badge&labelColor=white)
+<br> ![3.](https://img.shields.io/badge/3.-Input%20Validation-00599C?style=for-the-badge&labelColor=white)
 <br> Ensures that the cube size is reasonable (positive integer, and not too small) to prevent console distortion.
 <br> 
 
@@ -36,7 +36,7 @@
 > - &nbsp; Initial Shape: A solid *(2n - 1) × (2n - 1)* square of ' $ ' characters.
 > - &nbsp; Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as ' $ '.
 
-<br> ![4.](https://img.shields.io/badge/4.-Clear%20Structure-blue?style=for-the-badge&labelColor=white)
+<br> ![4.](https://img.shields.io/badge/4.-Clear%20Structure-00599C?style=for-the-badge&labelColor=white)
 <br> Modular code design (separate functions for top, sides, and bottom drawing) making it easy to modify or expand.
 <br> 
 
