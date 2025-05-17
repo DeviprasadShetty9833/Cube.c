@@ -57,8 +57,8 @@
 <br> ⊡⁠ Dynamic Output based on user input
 
 # How to use:
-<br> 1. Copy the source code from the file : [src.py]() 
-<br> 2. Open any of the recommended online Python compilers : (e.g., [CodeChef](), [Python Tutor](), [OnlineGDB](), [Programiz](), [OneCompiler](), etc.)
+<br> 1. Copy the source code from the file : [src.c]() 
+<br> 2. Open any of the recommended online C compilers : (e.g., [CodeChef](), [Python Tutor](), [OnlineGDB](), [Programiz](), [OneCompiler](), etc.)
 <br> 3. Paste the copied code into the editor.
 <br> 4. Click the **RUN** / **Visualise Execution** button to execute the program.
 <br> 5. Enter a natural number.
