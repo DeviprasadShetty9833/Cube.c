@@ -57,7 +57,7 @@
 <br> ⊡⁠ Dynamic Output based on user input
 
 # How to use:
-<br> 1. Copy the source code from the file : [src.c]() 
+<br> 1. Copy the source code from the file : [src.c](https://github.com/DeviprasadShetty9833/Cube.c/blob/main/src.c) 
 <br> 2. Open any of the recommended online C compilers : (e.g., [CodeChef](), [Python Tutor](), [OnlineGDB](), [Programiz](), [OneCompiler](), etc.)
 <br> 3. Paste the copied code into the editor.
 <br> 4. Click the **RUN** / **Visualise Execution** button to execute the program.
