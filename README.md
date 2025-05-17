@@ -32,7 +32,7 @@
 <br> Ensures that the cube size is reasonable (positive integer, and not too small) to prevent console distortion.
 <br> 
 
-> ⊡⁠ If the user inputs a *size n*, then the pattern follows this transformation:
+> 🟦⁠ If the user inputs a *size n*, then the pattern follows this transformation:
 > - &nbsp; Initial Shape: A solid *(2n - 1) × (2n - 1)* square of ' $ ' characters.
 > - &nbsp; Diagonal Layer Transformation: The 1st to (n-1)th diagonal layer from bottom-left to top-right will be partially carved i.e replaced by spaces (' '). All other positions will remain as ' $ '.
 
