@@ -74,3 +74,5 @@
 <br> I’d love to hear from you!
 <br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Cube.c/tree/main/Issue_Template), [Issues](https://github.com/DeviprasadShetty9833/Cube.c/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Cube.c/blob/main/Issue_Template/Features_report.md) for improvements.
 
+# Support
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
